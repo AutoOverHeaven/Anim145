@@ -1,0 +1,8 @@
+*
+
+!/Config/
+!Content/
+!Source/
+!Intermediate/
+!Plugins/
+*.UPROJECT
