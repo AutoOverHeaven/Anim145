@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Individuals/Dante/DanteScene.umap",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Individuals/Hyungwoo/HyungwooScene.umap",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Individuals/Jonathan/JonathanScene.umap",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Individuals/Walid/WalidScene.umap",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Hyungwoo/ANIM145_Ryu_H_CylinderLowPoly.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/ANIM145_Ryu_H_CylinderLowPoly.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Cylinder1/ANIM145_Ryu_H_CylinderLowPoly.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Cylinder1/Cylinder1_Material.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Cylinder1/Textures/ANIM145_Ryu_H_CylinderLowPoly_Cylinder1_Texture_BaseColor.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Cylinder1/Textures/ANIM145_Ryu_H_CylinderLowPoly_Cylinder1_Texture_Metallic.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Cylinder1/Textures/ANIM145_Ryu_H_CylinderLowPoly_Cylinder1_Texture_Normal.uasset",
+				"C:/Users/hyung/Documents/Unreal Projects/ANIM_145_DHWJ/Content/Shared/Cylinder1/Textures/ANIM145_Ryu_H_CylinderLowPoly_Cylinder1_Texture_Roughness.uasset"
+			]
+		}
+	]
+}
