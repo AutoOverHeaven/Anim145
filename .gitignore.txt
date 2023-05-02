@@ -1,8 +1,8 @@
 *
 
-!/Config/
-!/Content/
-!/Source/
-!/Intermediate/
-!/Plugins/
+!/ANIM_145_DHWJ/Config/
+!/ANIM_145_DHWJ/Content/
+!/ANIM_145_DHWJ/Source/
+!/ANIM_145_DHWJ/Intermediate/
+!/ANIM_145_DHWJ/Plugins/
 *.UPROJECT
