@@ -1,3 +1,0 @@
-
-ANIM_145_DHWJ/Saved/*
-ANIM_145_DHWJ/DerivedDataCache/*
