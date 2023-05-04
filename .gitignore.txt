@@ -1,8 +1,0 @@
-*
-
-!/ANIM_145_DHWJ/Content/
-!/ANIM_145_DHWJ/Intermediate/
-!/ANIM_145_DHWJ/Config/
-!*.uproject
-
-/ANIM_145_DHWJ/Saved/
